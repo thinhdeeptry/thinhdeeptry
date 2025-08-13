@@ -63,8 +63,6 @@
 
 ### 📊 GitHub Stats
 
-![Thinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=thinhdeeptry&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thinhdeeptry&layout=compact&theme=radical)
 
 ### 🎯 What I'm Currently Working On
