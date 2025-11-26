@@ -44,7 +44,13 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### 🌟 Featured Projects
-
+#### 🧠 [CogniStream - Intelligent AI-Integrated LMS](https://github.com/thinhdeeptry/cogni-stream-frontend)
+An advanced E-learning platform featuring a Context-Aware AI Assistant.
+- **Tech Stack**: Next.js 15, NestJS 11, PostgreSQL, Redis, Docker, Cloudflare Tunnel, Gemini AI API.
+- **Key Features**:
+  - Context-Aware AI: Implemented "Dynamic Prompt Adaptation" architecture using Gemini API to provide personalized learning support based on user progress and lesson content.
+  - Secure Deployment: Deployed via Docker and Cloudflare Tunnel to obfuscate origin server IP, ensuring high security and performance (< 700ms load time).
+Comprehensive Management: Full workflow for Admins, Instructors, and Students with VNPAY integration and Google Meet live classrooms.
 #### 🎓 [Edu Forge - Microservices E-Learning Platform](https://github.com/thinhdeeptry/edu-forge-frontend)
 - **Tech Stack**: NestJS, Next.js, MongoDB, Redis, Docker, AWS EC2
 - **Features**: 
