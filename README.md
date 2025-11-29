@@ -2,7 +2,7 @@
 
 ## 🚀 Software Engineer | Full-Stack Developer
 
-> Final-year Software Engineering student with hands-on experience building scalable full-stack applications using modern technologies and microservices architecture.
+> Software Engineering student at the Industrial University of Ho Chi Minh City with strong logical thinking and a solid technical foundation. My core strength lies in building complex functionality (Logic, API integration, State Management) using Next.js 15 and TypeScript. Currently, I am dedicating myself to mastering Tailwind CSS and design principles to implement pixel-perfect UIs. My goal is to combine my existing system thinking with my developing UI skills to become a comprehensive Frontend Engineer, capable of solving both interface and performance challenges.
 
 ### 🎓 About Me
 - 🎯 **Current Focus**: Specializing in RESTful API development and system architecture
