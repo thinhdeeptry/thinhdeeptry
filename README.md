@@ -7,7 +7,7 @@
 ### 🎓 About Me
 - 🎯 **Current Focus**: Specializing in RESTful API development and system architecture
 - 🏫 **Education**: Industrial University of Ho Chi Minh City (IUH) - Software Engineering
-- 📊 **GPA**: 3.24/4.0 with scholarship achievements (70% & 30% semester scholarships)
+- 📊 **GPA**: 3.31/4.0 with scholarship achievements (70% & 30% semester scholarships)
 - 🌐 **Portfolio**: [thinhdeeptry.id.vn](https://thinhdeeptry.id.vn/)
 - 📍 **Location**: Ho Chi Minh City, Vietnam
 
